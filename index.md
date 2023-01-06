@@ -16,6 +16,6 @@ GitHub 主页：[baidu ]([https://www.baidu.com/])
 
 ### 联系方式
 
-- 邮箱：aaa@qq.com
-- 微信：65432
+- 邮箱：34840XXXX@qq.com
+- 微信：ZH-XXXXXXXX
 - 电话：1527498XXXX
